@@ -11,11 +11,13 @@ The Java ATM Simulator offers the following functionality:
 ![PIN Authentication](https://github.com/Baniya-sen/ATM-Working-Simulation/assets/144620117/ce4c1c3f-2160-44a0-86a1-e8a6ef3abb8e)
 
 
+
 - **Description**: The ATM simulator features a secure PIN authentication system to verify the identity of the user. Users are required to enter their unique PIN (Personal Identification Number) to access their accounts and perform transactions. The PIN authentication process ensures the security and confidentiality of the user's banking information.
 
 ### Account Balance Inquiry
 
 ![Balance Inquiry](https://github.com/Baniya-sen/ATM-Working-Simulation/assets/144620117/628862bb-2229-4359-b752-e199fd3ff770)
+
 
 
 - **Description**: Users can check their account balances conveniently using the ATM simulator. Upon successful authentication, the system displays the current balance of the user's account, providing them with real-time financial information.
@@ -25,11 +27,13 @@ The Java ATM Simulator offers the following functionality:
 ![Cash Withdrawal](https://github.com/Baniya-sen/ATM-Working-Simulation/assets/144620117/e3e7cf56-729b-4004-b21f-6a5e178ee568)
 
 
+
 - **Description**: The ATM simulator allows users to withdraw cash from their accounts quickly and efficiently. Users can specify the desired withdrawal amount, and the system deducts the corresponding funds from their account balance.
 
 ### Cash Deposit
 
 ![Cash Deposit](https://github.com/Baniya-sen/ATM-Working-Simulation/assets/144620117/c0c9bf3e-1e67-4be6-aadf-ff6898bf14c9)
+
 
 
 - **Description**: Users can deposit cash into their accounts using the ATM simulator. Simply insert the desired amount of cash into the designated slot, and the system adds the deposited funds to the user's account balance.
